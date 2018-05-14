@@ -1,0 +1,6 @@
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task1\Task3\bin\Debug\Task3.exe.config
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task1\Task3\bin\Debug\Task3.exe
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task1\Task3\bin\Debug\Task3.pdb
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task1\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task1\Task3\obj\Debug\Task3.exe
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task1\Task3\obj\Debug\Task3.pdb
