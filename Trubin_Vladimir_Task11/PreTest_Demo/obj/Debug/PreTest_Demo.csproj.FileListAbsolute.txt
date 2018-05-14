@@ -1,0 +1,7 @@
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task11\PreTest_Demo\bin\Debug\PreTest_Demo.exe.config
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task11\PreTest_Demo\bin\Debug\PreTest_Demo.exe
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task11\PreTest_Demo\bin\Debug\PreTest_Demo.pdb
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task11\PreTest_Demo\obj\Debug\PreTest_Demo.csprojResolveAssemblyReference.cache
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task11\PreTest_Demo\obj\Debug\PreTest_Demo.csproj.CoreCompileInputs.cache
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task11\PreTest_Demo\obj\Debug\PreTest_Demo.exe
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task11\PreTest_Demo\obj\Debug\PreTest_Demo.pdb
