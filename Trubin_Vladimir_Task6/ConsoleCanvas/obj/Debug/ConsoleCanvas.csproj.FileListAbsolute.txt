@@ -1,0 +1,8 @@
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\ConsoleCanvas\bin\Debug\ConsoleCanvas.dll
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\ConsoleCanvas\bin\Debug\ConsoleCanvas.pdb
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\ConsoleCanvas\bin\Debug\Shapes.dll
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\ConsoleCanvas\bin\Debug\Shapes.pdb
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\ConsoleCanvas\obj\Debug\ConsoleCanvas.csprojResolveAssemblyReference.cache
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\ConsoleCanvas\obj\Debug\ConsoleCanvas.csproj.CoreCompileInputs.cache
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\ConsoleCanvas\obj\Debug\ConsoleCanvas.dll
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\ConsoleCanvas\obj\Debug\ConsoleCanvas.pdb

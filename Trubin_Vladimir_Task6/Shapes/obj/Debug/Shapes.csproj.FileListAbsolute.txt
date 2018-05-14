@@ -1,0 +1,5 @@
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\Shapes\bin\Debug\Shapes.dll
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\Shapes\bin\Debug\Shapes.pdb
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\Shapes\obj\Debug\Shapes.dll
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task6\Shapes\obj\Debug\Shapes.pdb
