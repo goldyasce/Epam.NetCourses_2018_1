@@ -1,0 +1,5 @@
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task10\MathFunc\bin\Debug\MathFunc.dll
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task10\MathFunc\bin\Debug\MathFunc.pdb
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task10\MathFunc\obj\Debug\MathFunc.csproj.CoreCompileInputs.cache
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task10\MathFunc\obj\Debug\MathFunc.dll
+D:\MyFolder\C# projects\Epam\Trubin_Vladimir_Task10\MathFunc\obj\Debug\MathFunc.pdb
