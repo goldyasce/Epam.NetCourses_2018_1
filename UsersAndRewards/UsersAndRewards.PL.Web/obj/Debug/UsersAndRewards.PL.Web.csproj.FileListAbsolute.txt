@@ -1,0 +1,166 @@
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.PL.Web.dll.config
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.PL.Web.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.PL.Web.pdb
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csc.exe
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csc.exe.config
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csc.rsp
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csi.exe
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csi.exe.config
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csi.rsp
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.AppContext.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Collections.Immutable.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Console.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Diagnostics.Process.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.IO.Compression.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.IO.FileSystem.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.IO.Pipes.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Reflection.Metadata.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.AccessControl.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Claims.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Threading.Thread.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.ValueTuple.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Xml.XPath.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\vbc.exe
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\vbc.exe.config
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\vbc.rsp
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\VBCSCompiler.exe
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\VBCSCompiler.exe.config
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\Microsoft.Web.Infrastructure.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Helpers.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Mvc.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Razor.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.Deployment.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.Razor.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Razor.xml
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.xml
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.Deployment.xml
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.Razor.xml
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Helpers.xml
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Mvc.xml
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Razor.resources.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Webpages.resources.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Helpers.resources.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Mvc.resources.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\obj\Debug\UsersAndRewards.PL.Web.csprojResolveAssemblyReference.cache
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\obj\Debug\UsersAndRewards.PL.Web.csproj.CoreCompileInputs.cache
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\obj\Debug\UsersAndRewards.PL.Web.csproj.CopyComplete
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\obj\Debug\UsersAndRewards.PL.Web.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\obj\Debug\UsersAndRewards.PL.Web.pdb
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.Shared.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.Shared.pdb
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.BL.Logic.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.DAL.DataLayer.dll
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.BL.Logic.pdb
+G:\Epam\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.DAL.DataLayer.pdb
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.PL.Web.dll.config
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.PL.Web.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.PL.Web.pdb
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csc.exe
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csc.exe.config
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csc.rsp
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csi.exe
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csi.exe.config
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\csi.rsp
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.AppContext.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Collections.Immutable.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Console.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Diagnostics.Process.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.IO.Compression.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.IO.FileSystem.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.IO.Pipes.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Reflection.Metadata.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.AccessControl.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Claims.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Security.Principal.Windows.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Threading.Thread.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.ValueTuple.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Xml.XmlDocument.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Xml.XPath.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\vbc.exe
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\vbc.exe.config
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\vbc.rsp
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\VBCSCompiler.exe
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\roslyn\VBCSCompiler.exe.config
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\Microsoft.Web.Infrastructure.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Helpers.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Mvc.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Razor.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.Deployment.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.Razor.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.BL.Logic.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.Shared.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.DAL.DataLayer.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.BL.Logic.pdb
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.Shared.pdb
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Razor.xml
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.xml
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.Deployment.xml
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Webpages.Razor.xml
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Helpers.xml
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\System.Web.Mvc.xml
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\UsersAndRewards.DAL.DataLayer.pdb
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Razor.resources.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Webpages.resources.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Helpers.resources.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\bin\ru\System.Web.Mvc.resources.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\obj\Debug\UsersAndRewards.PL.Web.csprojResolveAssemblyReference.cache
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\obj\Debug\UsersAndRewards.PL.Web.csproj.CoreCompileInputs.cache
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\obj\Debug\UsersAndRewards.PL.Web.csproj.CopyComplete
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\obj\Debug\UsersAndRewards.PL.Web.dll
+d:\Downloads\UsersAndRewards (2)\UsersAndRewards\UsersAndRewards.PL.Web\obj\Debug\UsersAndRewards.PL.Web.pdb

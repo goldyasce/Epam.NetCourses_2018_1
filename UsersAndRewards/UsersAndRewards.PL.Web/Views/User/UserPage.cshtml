@@ -1,0 +1,63 @@
+﻿@model UsersAndRewards.PL.Web.Models.UsersAndRewardsViewModel
+
+@{
+    ViewBag.Title = "User";
+}
+
+<h2>Add User</h2>
+
+<form method="POST" action="Add">
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            <label class="control-label col-md-2">First Name</label>
+            <div class="col-md-10">
+                <!--<input type="text" name="FirstName" class="form-control" value="model.FirstName"/>   -->
+                @if (!(Model.User is null))
+                 {
+                    @Html.HiddenFor(model => model.User.ID)
+                 }
+                @Html.EditorFor(model => model.User.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Last Name</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.User.LastName, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Birthdate</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.User.DateOfBirth, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Rewards</label>
+            <div class="col-md-10">
+                @for (var i = 0; i < Model.AllRewards.Count; i++)
+                {
+                    @Html.EditorFor(model => model.AllRewards[i].IsChecked)
+                    <span>@Model.AllRewards[i].Title</span>
+                    @Html.HiddenFor(model => model.AllRewards[i].RewardId)
+                    <br />
+                }
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+

@@ -1,0 +1,33 @@
+﻿@using UsersAndRewards.Shared;
+@{
+    ViewBag.Title = "RewardPage";
+}
+
+@model List<Reward>
+<h2>Rewards</h2>
+
+<p>
+    @Html.ActionLink("Create New Reward", "Create")
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reward in Model)
+        {
+            <tr>
+                <td>@reward.Title</td>
+                <td>@reward.Description</td>
+                <td>
+                    @Html.ActionLink("Edit", "Update", new { RewardId = reward.ID })
+                    @Html.ActionLink("Delete", "Delete", new { RewardId = reward.ID })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

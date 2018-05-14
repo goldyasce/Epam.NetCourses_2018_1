@@ -1,0 +1,41 @@
+﻿@using UsersAndRewards.Shared;
+@model Reward
+@{
+    ViewBag.Title = "AddReward";
+}
+
+<h2>AddReward</h2>
+
+<form method="POST" action="Add">
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            <label class="control-label col-md-2">Title</label>
+            <div class="col-md-10">
+                <!--<input type="text" name="FirstName" class="form-control" value="model.FirstName"/>   -->
+                @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+            @if (!(Model is null))
+             {
+                 @Html.HiddenFor(model => model.ID)
+             }
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Description</label>.
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    @Html.ActionLink("Back to List", "RewardTable")
+</div>

@@ -1,0 +1,12 @@
+D:\Epam\-.Net-2018-1-\UsersAndRewards\UsersAndRewards.Shared\bin\Debug\UsersAndRewards.Shared.dll
+D:\Epam\-.Net-2018-1-\UsersAndRewards\UsersAndRewards.Shared\bin\Debug\UsersAndRewards.Shared.pdb
+D:\Epam\-.Net-2018-1-\UsersAndRewards\UsersAndRewards.Shared\obj\Debug\UsersAndRewards.Shared.csprojResolveAssemblyReference.cache
+D:\Epam\-.Net-2018-1-\UsersAndRewards\UsersAndRewards.Shared\obj\Debug\UsersAndRewards.Shared.csproj.CoreCompileInputs.cache
+D:\Epam\-.Net-2018-1-\UsersAndRewards\UsersAndRewards.Shared\obj\Debug\UsersAndRewards.Shared.dll
+D:\Epam\-.Net-2018-1-\UsersAndRewards\UsersAndRewards.Shared\obj\Debug\UsersAndRewards.Shared.pdb
+G:\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.Shared\bin\Debug\UsersAndRewards.Shared.dll
+G:\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.Shared\bin\Debug\UsersAndRewards.Shared.pdb
+G:\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.Shared\obj\Debug\UsersAndRewards.Shared.csprojResolveAssemblyReference.cache
+G:\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.Shared\obj\Debug\UsersAndRewards.Shared.csproj.CoreCompileInputs.cache
+G:\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.Shared\obj\Debug\UsersAndRewards.Shared.dll
+G:\UsersAndRewards5555\UsersAndRewards\UsersAndRewards.Shared\obj\Debug\UsersAndRewards.Shared.pdb
